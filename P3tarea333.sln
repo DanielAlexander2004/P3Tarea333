@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3tarea333", "..\Users\Daniel alexander\source\repos\P3tarea333\P3tarea333\P3tarea333.csproj", "{8E36FDAD-970C-4B14-9C9E-7A77FF17D70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E36FDAD-970C-4B14-9C9E-7A77FF17D70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E36FDAD-970C-4B14-9C9E-7A77FF17D70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E36FDAD-970C-4B14-9C9E-7A77FF17D70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E36FDAD-970C-4B14-9C9E-7A77FF17D70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32C8CE8-DC64-4A51-BFFB-28DF79AC0FAC}
+	EndGlobalSection
+EndGlobal
